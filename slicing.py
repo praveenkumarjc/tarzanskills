@@ -33,3 +33,4 @@ y=str2.upper()
 print(y)
 z=str2.lower()
 print(z)
+
